@@ -1,0 +1,10 @@
+
+This is the first page of chapter 1
+
+This is our book
+
+This is my first notes in intelliji
+
+Created a new project
+created a new package called
+Created a new text file called page 1
