@@ -4,3 +4,5 @@ Today is the second day of Git class.
 
 Learning new things is exiting.
 
+
+new text for this page on 3rd day of Git class
